@@ -1,0 +1,397 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		83412FE71E387EE6001B21A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83412FE61E387EE6001B21A0 /* ViewController.swift */; };
+		83412FE91E3883AB001B21A0 /* CAPSPageMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83412FE81E3883AB001B21A0 /* CAPSPageMenu.swift */; };
+		83412FED1E38842D001B21A0 /* ProductListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83412FEB1E38842D001B21A0 /* ProductListVC.swift */; };
+		83412FEE1E38842D001B21A0 /* ProductListVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83412FEC1E38842D001B21A0 /* ProductListVC.xib */; };
+		83412FF11E388444001B21A0 /* OffersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83412FEF1E388444001B21A0 /* OffersVC.swift */; };
+		83412FF21E388444001B21A0 /* OffersVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83412FF01E388444001B21A0 /* OffersVC.xib */; };
+		83412FF51E388459001B21A0 /* MerchantVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83412FF31E388459001B21A0 /* MerchantVC.swift */; };
+		83412FF61E388459001B21A0 /* MerchantVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83412FF41E388459001B21A0 /* MerchantVC.xib */; };
+		8390B1791E3729710054B9E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B1781E3729710054B9E0 /* AppDelegate.swift */; };
+		8390B1801E3729710054B9E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8390B17F1E3729710054B9E0 /* Assets.xcassets */; };
+		8390B1831E3729720054B9E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8390B1811E3729720054B9E0 /* LaunchScreen.storyboard */; };
+		8390B1901E372B910054B9E0 /* TabNVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B18E1E372B910054B9E0 /* TabNVC.swift */; };
+		8390B1911E372B910054B9E0 /* TabNVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B18F1E372B910054B9E0 /* TabNVC.xib */; };
+		8390B19D1E372DC70054B9E0 /* MoreVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B19B1E372DC70054B9E0 /* MoreVC.swift */; };
+		8390B19E1E372DC70054B9E0 /* MoreVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B19C1E372DC70054B9E0 /* MoreVC.xib */; };
+		8390B1A11E372DEC0054B9E0 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B19F1E372DEC0054B9E0 /* HomeViewController.swift */; };
+		8390B1A21E372DEC0054B9E0 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B1A01E372DEC0054B9E0 /* HomeViewController.xib */; };
+		8390B1A51E372E020054B9E0 /* InventoryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B1A31E372E020054B9E0 /* InventoryVC.swift */; };
+		8390B1A61E372E020054B9E0 /* InventoryVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B1A41E372E020054B9E0 /* InventoryVC.xib */; };
+		8390B1A91E3731F70054B9E0 /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8390B1A71E3731F70054B9E0 /* TabViewController.swift */; };
+		8390B1AA1E3731F70054B9E0 /* TabViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B1A81E3731F70054B9E0 /* TabViewController.xib */; };
+		8390B1AE1E3736BA0054B9E0 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8390B1AC1E3736B90054B9E0 /* ViewController.xib */; };
+		83ACD8261E3B1C9900E1CC74 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83ACD8241E3B1C9900E1CC74 /* LoginVC.swift */; };
+		83ACD8271E3B1C9900E1CC74 /* LoginVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83ACD8251E3B1C9900E1CC74 /* LoginVC.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		83412FE61E387EE6001B21A0 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		83412FE81E3883AB001B21A0 /* CAPSPageMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAPSPageMenu.swift; sourceTree = "<group>"; };
+		83412FEB1E38842D001B21A0 /* ProductListVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductListVC.swift; sourceTree = "<group>"; };
+		83412FEC1E38842D001B21A0 /* ProductListVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProductListVC.xib; sourceTree = "<group>"; };
+		83412FEF1E388444001B21A0 /* OffersVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OffersVC.swift; sourceTree = "<group>"; };
+		83412FF01E388444001B21A0 /* OffersVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OffersVC.xib; sourceTree = "<group>"; };
+		83412FF31E388459001B21A0 /* MerchantVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MerchantVC.swift; sourceTree = "<group>"; };
+		83412FF41E388459001B21A0 /* MerchantVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MerchantVC.xib; sourceTree = "<group>"; };
+		8390B1751E3729710054B9E0 /* TabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8390B1781E3729710054B9E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8390B17F1E3729710054B9E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8390B1821E3729720054B9E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8390B1841E3729720054B9E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8390B18E1E372B910054B9E0 /* TabNVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabNVC.swift; sourceTree = "<group>"; };
+		8390B18F1E372B910054B9E0 /* TabNVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabNVC.xib; sourceTree = "<group>"; };
+		8390B19B1E372DC70054B9E0 /* MoreVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreVC.swift; sourceTree = "<group>"; };
+		8390B19C1E372DC70054B9E0 /* MoreVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MoreVC.xib; sourceTree = "<group>"; };
+		8390B19F1E372DEC0054B9E0 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		8390B1A01E372DEC0054B9E0 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		8390B1A31E372E020054B9E0 /* InventoryVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryVC.swift; sourceTree = "<group>"; };
+		8390B1A41E372E020054B9E0 /* InventoryVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InventoryVC.xib; sourceTree = "<group>"; };
+		8390B1A71E3731F70054B9E0 /* TabViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		8390B1A81E3731F70054B9E0 /* TabViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabViewController.xib; sourceTree = "<group>"; };
+		8390B1AC1E3736B90054B9E0 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		83ACD8241E3B1C9900E1CC74 /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		83ACD8251E3B1C9900E1CC74 /* LoginVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginVC.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8390B1721E3729710054B9E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		83412FEA1E388405001B21A0 /* CPageViews */ = {
+			isa = PBXGroup;
+			children = (
+				83412FEB1E38842D001B21A0 /* ProductListVC.swift */,
+				83412FEC1E38842D001B21A0 /* ProductListVC.xib */,
+				83412FEF1E388444001B21A0 /* OffersVC.swift */,
+				83412FF01E388444001B21A0 /* OffersVC.xib */,
+				83412FF31E388459001B21A0 /* MerchantVC.swift */,
+				83412FF41E388459001B21A0 /* MerchantVC.xib */,
+			);
+			path = CPageViews;
+			sourceTree = "<group>";
+		};
+		8390B16C1E3729710054B9E0 = {
+			isa = PBXGroup;
+			children = (
+				8390B1771E3729710054B9E0 /* TabBar */,
+				8390B1761E3729710054B9E0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8390B1761E3729710054B9E0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8390B1751E3729710054B9E0 /* TabBar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8390B1771E3729710054B9E0 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				8390B1781E3729710054B9E0 /* AppDelegate.swift */,
+				8390B18E1E372B910054B9E0 /* TabNVC.swift */,
+				8390B18F1E372B910054B9E0 /* TabNVC.xib */,
+				8390B1A71E3731F70054B9E0 /* TabViewController.swift */,
+				8390B1A81E3731F70054B9E0 /* TabViewController.xib */,
+				83412FE81E3883AB001B21A0 /* CAPSPageMenu.swift */,
+				8390B19A1E372D9D0054B9E0 /* ViewControllers */,
+				8390B17F1E3729710054B9E0 /* Assets.xcassets */,
+				8390B1811E3729720054B9E0 /* LaunchScreen.storyboard */,
+				8390B1841E3729720054B9E0 /* Info.plist */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		8390B19A1E372D9D0054B9E0 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				83ACD8231E3B1C8000E1CC74 /* LoginVC */,
+				8390B19F1E372DEC0054B9E0 /* HomeViewController.swift */,
+				8390B1A01E372DEC0054B9E0 /* HomeViewController.xib */,
+				8390B1A31E372E020054B9E0 /* InventoryVC.swift */,
+				8390B1A41E372E020054B9E0 /* InventoryVC.xib */,
+				8390B19B1E372DC70054B9E0 /* MoreVC.swift */,
+				8390B19C1E372DC70054B9E0 /* MoreVC.xib */,
+				8390B1AC1E3736B90054B9E0 /* ViewController.xib */,
+				83412FE61E387EE6001B21A0 /* ViewController.swift */,
+				83412FEA1E388405001B21A0 /* CPageViews */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		83ACD8231E3B1C8000E1CC74 /* LoginVC */ = {
+			isa = PBXGroup;
+			children = (
+				83ACD8241E3B1C9900E1CC74 /* LoginVC.swift */,
+				83ACD8251E3B1C9900E1CC74 /* LoginVC.xib */,
+			);
+			path = LoginVC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8390B1741E3729710054B9E0 /* TabBar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8390B1871E3729720054B9E0 /* Build configuration list for PBXNativeTarget "TabBar" */;
+			buildPhases = (
+				8390B1711E3729710054B9E0 /* Sources */,
+				8390B1721E3729710054B9E0 /* Frameworks */,
+				8390B1731E3729710054B9E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TabBar;
+			productName = TabBar;
+			productReference = 8390B1751E3729710054B9E0 /* TabBar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8390B16D1E3729710054B9E0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = KelltontechSolutions;
+				TargetAttributes = {
+					8390B1741E3729710054B9E0 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 8390B1701E3729710054B9E0 /* Build configuration list for PBXProject "TabBar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8390B16C1E3729710054B9E0;
+			productRefGroup = 8390B1761E3729710054B9E0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8390B1741E3729710054B9E0 /* TabBar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8390B1731E3729710054B9E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				83412FEE1E38842D001B21A0 /* ProductListVC.xib in Resources */,
+				8390B1831E3729720054B9E0 /* LaunchScreen.storyboard in Resources */,
+				83412FF61E388459001B21A0 /* MerchantVC.xib in Resources */,
+				8390B1AE1E3736BA0054B9E0 /* ViewController.xib in Resources */,
+				8390B1A61E372E020054B9E0 /* InventoryVC.xib in Resources */,
+				8390B1801E3729710054B9E0 /* Assets.xcassets in Resources */,
+				83ACD8271E3B1C9900E1CC74 /* LoginVC.xib in Resources */,
+				83412FF21E388444001B21A0 /* OffersVC.xib in Resources */,
+				8390B1AA1E3731F70054B9E0 /* TabViewController.xib in Resources */,
+				8390B1911E372B910054B9E0 /* TabNVC.xib in Resources */,
+				8390B19E1E372DC70054B9E0 /* MoreVC.xib in Resources */,
+				8390B1A21E372DEC0054B9E0 /* HomeViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8390B1711E3729710054B9E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8390B1A91E3731F70054B9E0 /* TabViewController.swift in Sources */,
+				8390B1791E3729710054B9E0 /* AppDelegate.swift in Sources */,
+				83ACD8261E3B1C9900E1CC74 /* LoginVC.swift in Sources */,
+				8390B19D1E372DC70054B9E0 /* MoreVC.swift in Sources */,
+				83412FF11E388444001B21A0 /* OffersVC.swift in Sources */,
+				8390B1A51E372E020054B9E0 /* InventoryVC.swift in Sources */,
+				83412FE71E387EE6001B21A0 /* ViewController.swift in Sources */,
+				83412FED1E38842D001B21A0 /* ProductListVC.swift in Sources */,
+				8390B1901E372B910054B9E0 /* TabNVC.swift in Sources */,
+				83412FF51E388459001B21A0 /* MerchantVC.swift in Sources */,
+				83412FE91E3883AB001B21A0 /* CAPSPageMenu.swift in Sources */,
+				8390B1A11E372DEC0054B9E0 /* HomeViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8390B1811E3729720054B9E0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8390B1821E3729720054B9E0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8390B1851E3729720054B9E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8390B1861E3729720054B9E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8390B1881E3729720054B9E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TabBar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.KelltontechSolutions.TabBar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		8390B1891E3729720054B9E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TabBar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.KelltontechSolutions.TabBar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8390B1701E3729710054B9E0 /* Build configuration list for PBXProject "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8390B1851E3729720054B9E0 /* Debug */,
+				8390B1861E3729720054B9E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8390B1871E3729720054B9E0 /* Build configuration list for PBXNativeTarget "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8390B1881E3729720054B9E0 /* Debug */,
+				8390B1891E3729720054B9E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8390B16D1E3729710054B9E0 /* Project object */;
+}
