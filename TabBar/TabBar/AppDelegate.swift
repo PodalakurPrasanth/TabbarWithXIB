@@ -24,7 +24,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             self.window?.rootViewController  = tabVC
      
         }else{
-    
             let loginVC:LoginVC = LoginVC(nibName: "LoginVC", bundle: nil)
             self.window?.rootViewController  = loginVC
             self.navigationVC?.navigationBar.isTranslucent = false
